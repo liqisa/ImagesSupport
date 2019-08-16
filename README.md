@@ -25,7 +25,7 @@ images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_849.jpg
 images/0_bk_bloodiness_human/0_bk_bloodiness_human_0921_10005.jpg  
 
 ```shell
-$ mkdir build   
+*$* mkdir build   
    
 $ cd build && cmake ..   
    
