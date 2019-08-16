@@ -39,4 +39,4 @@ $ ./test_hades ../models/sm_black_1.tronmodel   \
 
 | name | infer_time_ave | GPU | batch |
 | --- | ---| --- | --- |
-| sm_black_SDK | time cost: 4796.76 | P4 | 8 |
+| sm_black_SDK | 9.99325ms | P4 | 8 |
