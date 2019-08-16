@@ -2,9 +2,9 @@
 环境配置详情参考Dockerfile
 
 # Models
-models/sm_black_1.tronmodel
-models/sm_black_2.tronmodel
-models/sm_black_3.tronmodel
+models/sm_black_1.tronmodel  
+models/sm_black_2.tronmodel  
+models/sm_black_3.tronmodel  
 
 # Images
 测试图片共48类，每类十张，共计480张  
