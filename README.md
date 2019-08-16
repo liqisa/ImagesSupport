@@ -31,8 +31,8 @@ $ cd build && cmake ..
    
 $ make   
    
-$ ./test_hades ../models/sm_black_1.tronmodel    
-               ../models/sm_black_2.tronmodel   
-               ../models/sm_black_3.tronmodel   
+$ ./test_hades ../models/sm_black_1.tronmodel   \  
+               ../models/sm_black_2.tronmodel   \  
+               ../models/sm_black_3.tronmodel   \  
                
 ```
