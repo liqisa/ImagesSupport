@@ -13,13 +13,13 @@ models/sm_black_3.tronmodel
 > 注：index 为类别序号，class_name 为类别名， number为每张图的序号
 
 **例：**                                
-images/0_bk_bloodiness_human_0227_1106.jpg  
-images/0_bk_bloodiness_human_0227_1377.jpg  
-images/0_bk_bloodiness_human_0227_1863.jpg  
-images/0_bk_bloodiness_human_0227_2673.jpg   
-images/0_bk_bloodiness_human_0227_2907.jpg  
-images/0_bk_bloodiness_human_0227_3447.jpg  
-images/0_bk_bloodiness_human_0227_3807.jpg  
-images/0_bk_bloodiness_human_0227_4725.jpg  
-images/0_bk_bloodiness_human_0227_849.jpg   
-images/0_bk_bloodiness_human_0921_10005.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_1106.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_1377.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_1863.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_2673.jpg   
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_2907.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_3447.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_3807.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_4725.jpg  
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_849.jpg   
+images/0_bk_bloodiness_human/0_bk_bloodiness_human_0921_10005.jpg  
