@@ -23,3 +23,16 @@ images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_3807.jpg
 images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_4725.jpg  
 images/0_bk_bloodiness_human/0_bk_bloodiness_human_0227_849.jpg   
 images/0_bk_bloodiness_human/0_bk_bloodiness_human_0921_10005.jpg  
+
+```shell
+$ mkdir build   
+   
+$ cd build && cmake ..   
+   
+$ make   
+   
+$ ./test_hades ../models/sm_black_1.tronmodel    
+               ../models/sm_black_2.tronmodel   
+               ../models/sm_black_3.tronmodel   
+               
+```
